@@ -1,3 +1,4 @@
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # Проект kittygram_final
 ## Автор ##
 Проект выполнен: Команда Яндекс Практикум, Чернышов Владислав
