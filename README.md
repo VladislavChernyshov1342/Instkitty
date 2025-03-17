@@ -1,4 +1,5 @@
-https://docs.github.com/assets/cb-16218/mw-1440/images/help/repository/actions-workflow-status-badge.webp
+![Workflow Status](https://github.com/VladislavChernyshov1342/kittygram_final/actions/workflows/WORKFLOW.yml/badge.svg)
+[Посмотреть репозиторий](https://github.com/VladislavChernyshov1342/kittygram_final)
 # Проект kittygram_final
 ## Автор ##
 Проект выполнен: Команда Яндекс Практикум, Чернышов Владислав
