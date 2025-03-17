@@ -1,4 +1,4 @@
-![Workflow Status](https://github.com/VladislavChernyshov1342/kittygram_final/actions/workflows/WORKFLOW.yml/badge.svg)
+![Workflow Status](https://github.com/VladislavChernyshov1342/kittygram_final/actions/workflows/main.yml/badge.svg)
 [Посмотреть репозиторий](https://github.com/VladislavChernyshov1342/kittygram_final)
 # Проект kittygram_final
 ## Автор ##
