@@ -1,6 +1,6 @@
 ![Workflow Status](https://github.com/VladislavChernyshov1342/kittygram_final/actions/workflows/main.yml/badge.svg)
 ### [Посмотреть репозиторий](https://github.com/VladislavChernyshov1342/kittygram_final)
-# Проект kittygram_final
+# Проект Instkitty
 ## Автор ##
 Проект выполнен: Команда Яндекс Практикум, Чернышов Владислав
 ## Описание проекта и его задач ##
